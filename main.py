@@ -1,4 +1,3 @@
-from plotter import plot
 from train import train
 import os
 
