@@ -1,0 +1,342 @@
+************************************* Invoked: mar mar 12 15:19:10 2024
+[0] Arguments: ./EnergyPlus-23.2.0-7636e6b3e9-Linux-Ubuntu22.04-x86_64.run
+[1] Operations sanity check succeeded.
+[38] Using metadata cache from "/home/neto/.cache/qt-installer-framework/505bcc69-b128-3c32-9db2-8bf78f29f483"
+[38] Found 0 cached items.
+[38] Language: en-US
+[4058] Fetching latest update information...
+[4062] Loading component scripts...
+[6587] Warning: Only C and default locale supported with the posix collation implementation
+[6587] Warning: Only C and default locale supported with the posix collation implementation
+[6587] Warning: Case insensitive sorting unsupported in the posix collation implementation
+[6587] Warning: Numeric mode unsupported in the posix collation implementation
+[8175] Warning: Only C and default locale supported with the posix collation implementation
+[8175] Warning: Only C and default locale supported with the posix collation implementation
+[8175] Warning: Case insensitive sorting unsupported in the posix collation implementation
+[8175] Warning: Numeric mode unsupported in the posix collation implementation
+[9648] Warning: Only C and default locale supported with the posix collation implementation
+[9648] Warning: Only C and default locale supported with the posix collation implementation
+[9648] Warning: Case insensitive sorting unsupported in the posix collation implementation
+[9648] Warning: Numeric mode unsupported in the posix collation implementation
+[12479] Warning: Only C and default locale supported with the posix collation implementation
+[12479] Warning: Only C and default locale supported with the posix collation implementation
+[12479] Warning: Case insensitive sorting unsupported in the posix collation implementation
+[12479] Warning: Numeric mode unsupported in the posix collation implementation
+[18818] OverwriteTargetDirectory : Warning : You have selected an existing, non-empty directory for installation.
+Note that it will be completely wiped on uninstallation of this application.
+It is not advisable to install into this directory as installation might fail.
+Do you want to continue? Yes|No
+[53369] Warning: Only C and default locale supported with the posix collation implementation
+[53369] Warning: Only C and default locale supported with the posix collation implementation
+[53369] Warning: Case insensitive sorting unsupported in the posix collation implementation
+[53369] Warning: Numeric mode unsupported in the posix collation implementation
+[55086] Warning: Only C and default locale supported with the posix collation implementation
+[55086] Warning: Only C and default locale supported with the posix collation implementation
+[55086] Warning: Case insensitive sorting unsupported in the posix collation implementation
+[55086] Warning: Numeric mode unsupported in the posix collation implementation
+[55844] Warning: Only C and default locale supported with the posix collation implementation
+[55844] Warning: Only C and default locale supported with the posix collation implementation
+[55844] Warning: Case insensitive sorting unsupported in the posix collation implementation
+[55844] Warning: Numeric mode unsupported in the posix collation implementation
+[61037] Loading component scripts...
+[62913] Selected components without dependencies:
+CPPAPI 
+Symlinks 
+Datasets 
+Documentation 
+ExampleFiles 
+Licenses 
+Unspecified 
+WeatherData
+[62915] Installation space required: "906.38 MB" Temporary space required: "256.00 MB" Local repository size: "0.00 bytes"
+[62917] Cache and install directories are on the same volume. Volume mount point: "/home" Free space available: "4.10 GB"
+[63688] backup  operation: Mkdir
+[63688] 	- arguments: /home/neto/Desktop/Eplus
+[63688] Done
+[63688] perform  operation: Mkdir
+[63688] 	- arguments: /home/neto/Desktop/Eplus
+[63688] Done
+[63688] Preparing the installation...
+[63688] Install size: 8 components
+[63688] Fallback: "/home/neto/Downloads/EnergyPlus-23.2.0-7636e6b3e9-Linux-Ubuntu22.04-x86_64.run --start-server PRODUCTION,/tmp/{51dbe9d2-5d2a-48b5-b12d-ce24dd8ad88b},{9d31392b-2c71-4e11-a3ea-cbd404e173cd}"
+[68089] Preparing to unpack components...
+[68090] backup Symlinks concurrent operation: Extract
+[68090] 	- arguments: installer://Symlinks/23.2.0content.7z, /home/neto/Desktop/Eplus
+[68090] Started
+[68090] backup CPPAPI concurrent operation: Extract
+[68090] 	- arguments: installer://CPPAPI/23.2.0lib.7z, /home/neto/Desktop/Eplus
+[68090] Started
+[68090] backup Datasets concurrent operation: Extract
+[68090] 	- arguments: installer://Datasets/23.2.0DataSets.7z, /home/neto/Desktop/Eplus
+[68090] Started
+[68090] backup Datasets concurrent operation: Extract
+[68090] 	- arguments: installer://Datasets/23.2.0MacroDataSets.7z, /home/neto/Desktop/Eplus
+[68090] Started
+[68090] backup Documentation concurrent operation: Extract
+[68090] 	- arguments: installer://Documentation/23.2.0Documentation.7z, /home/neto/Desktop/Eplus
+[68090] Started
+[68092] backup ExampleFiles concurrent operation: Extract
+[68092] 	- arguments: installer://ExampleFiles/23.2.0ExampleFiles.7z, /home/neto/Desktop/Eplus
+[68092] Started
+[68095] backup Licenses concurrent operation: Extract
+[68095] 	- arguments: installer://Licenses/23.2.0content.7z, /home/neto/Desktop/Eplus
+[68095] Started
+[68095] backup Unspecified concurrent operation: Extract
+[68095] 	- arguments: installer://Unspecified/23.2.0content.7z, /home/neto/Desktop/Eplus
+[68095] Started
+[68098] backup Unspecified concurrent operation: Extract
+[68098] 	- arguments: installer://Unspecified/23.2.0include.7z, /home/neto/Desktop/Eplus
+[68098] Started
+[68099] backup Unspecified concurrent operation: Extract
+[68099] 	- arguments: installer://Unspecified/23.2.0PostProcess.7z, /home/neto/Desktop/Eplus
+[68099] Started
+[68100] backup Unspecified concurrent operation: Extract
+[68100] 	- arguments: installer://Unspecified/23.2.0PreProcess.7z, /home/neto/Desktop/Eplus
+[68100] Started
+[68102] backup Unspecified concurrent operation: Extract
+[68102] 	- arguments: installer://Unspecified/23.2.0pyenergyplus.7z, /home/neto/Desktop/Eplus
+[68102] Started
+[68104] backup Unspecified concurrent operation: Extract
+[68104] 	- arguments: installer://Unspecified/23.2.0python_standard_lib.7z, /home/neto/Desktop/Eplus
+[68104] Started
+[68105] backup Unspecified concurrent operation: Extract
+[68105] 	- arguments: installer://Unspecified/23.2.0workflows.7z, /home/neto/Desktop/Eplus
+[68105] Started
+[68107] backup WeatherData concurrent operation: Extract
+[68107] 	- arguments: installer://WeatherData/23.2.0WeatherData.7z, /home/neto/Desktop/Eplus
+[68107] Started
+[69930] Unpacking components...
+[69930] perform Documentation concurrent operation: Extract
+[69930] 	- arguments: installer://Documentation/23.2.0Documentation.7z, /home/neto/Desktop/Eplus
+[69930] Started
+[69931] perform Unspecified concurrent operation: Extract
+[69931] 	- arguments: installer://Unspecified/23.2.0content.7z, /home/neto/Desktop/Eplus
+[69931] Started
+[69931] perform Unspecified concurrent operation: Extract
+[69931] 	- arguments: installer://Unspecified/23.2.0python_standard_lib.7z, /home/neto/Desktop/Eplus
+[69931] Started
+[69931] perform Unspecified concurrent operation: Extract
+[69931] 	- arguments: installer://Unspecified/23.2.0PreProcess.7z, /home/neto/Desktop/Eplus
+[69931] Started
+[72717] perform ExampleFiles concurrent operation: Extract
+[72717] 	- arguments: installer://ExampleFiles/23.2.0ExampleFiles.7z, /home/neto/Desktop/Eplus
+[72717] Started
+[73078] perform Unspecified concurrent operation: Extract
+[73078] 	- arguments: installer://Unspecified/23.2.0PostProcess.7z, /home/neto/Desktop/Eplus
+[73078] Started
+[73264] perform Datasets concurrent operation: Extract
+[73264] 	- arguments: installer://Datasets/23.2.0DataSets.7z, /home/neto/Desktop/Eplus
+[73264] Started
+[73557] perform WeatherData concurrent operation: Extract
+[73557] 	- arguments: installer://WeatherData/23.2.0WeatherData.7z, /home/neto/Desktop/Eplus
+[73557] Started
+[73671] perform Datasets concurrent operation: Extract
+[73671] 	- arguments: installer://Datasets/23.2.0MacroDataSets.7z, /home/neto/Desktop/Eplus
+[73671] Started
+[73722] perform Unspecified concurrent operation: Extract
+[73722] 	- arguments: installer://Unspecified/23.2.0pyenergyplus.7z, /home/neto/Desktop/Eplus
+[73722] Started
+[73740] perform Unspecified concurrent operation: Extract
+[73740] 	- arguments: installer://Unspecified/23.2.0include.7z, /home/neto/Desktop/Eplus
+[73740] Started
+[73749] perform Unspecified concurrent operation: Extract
+[73749] 	- arguments: installer://Unspecified/23.2.0workflows.7z, /home/neto/Desktop/Eplus
+[73749] Started
+[73749] perform CPPAPI concurrent operation: Extract
+[73749] 	- arguments: installer://CPPAPI/23.2.0lib.7z, /home/neto/Desktop/Eplus
+[73749] Started
+[73752] perform Licenses concurrent operation: Extract
+[73752] 	- arguments: installer://Licenses/23.2.0content.7z, /home/neto/Desktop/Eplus
+[73752] Started
+[73755] perform Symlinks concurrent operation: Extract
+[73755] 	- arguments: installer://Symlinks/23.2.0content.7z, /home/neto/Desktop/Eplus
+[73755] Started
+[75961] Installing component Create Symlinks - requires admin
+[75961] "Execute" as admin: true
+[75961] backup Symlinks operation: Execute
+[75961] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/PreProcess/GrndTempCalc/Basement, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/Basement
+[75961] Done
+[75962] perform Symlinks operation: Execute
+[75962] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/PreProcess/GrndTempCalc/Basement, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/Basement
+[75963] ln" started, arguments: "-sf /home/neto/Desktop/Eplus/PreProcess/GrndTempCalc/Basement /usr/local/bin
+[76581] Done
+[76581] "Execute" as admin: true
+[76581] backup Symlinks operation: Execute
+[76581] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/PreProcess/GrndTempCalc/BasementGHT.idd, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/BasementGHT.idd
+[76581] Done
+[76581] perform Symlinks operation: Execute
+[76581] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/PreProcess/GrndTempCalc/BasementGHT.idd, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/BasementGHT.idd
+[76583] ln" started, arguments: "-sf /home/neto/Desktop/Eplus/PreProcess/GrndTempCalc/BasementGHT.idd /usr/local/bin
+[76585] Done
+[76585] "Execute" as admin: true
+[76585] backup Symlinks operation: Execute
+[76585] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/PostProcess/convertESOMTRpgm/convertESOMTR, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/convertESOMTR
+[76585] Done
+[76585] perform Symlinks operation: Execute
+[76585] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/PostProcess/convertESOMTRpgm/convertESOMTR, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/convertESOMTR
+[76587] ln" started, arguments: "-sf /home/neto/Desktop/Eplus/PostProcess/convertESOMTRpgm/convertESOMTR /usr/local/bin
+[76588] Done
+[76588] "Execute" as admin: true
+[76589] backup Symlinks operation: Execute
+[76589] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/energyplus, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/energyplus
+[76589] Done
+[76589] perform Symlinks operation: Execute
+[76589] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/energyplus, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/energyplus
+[76590] ln" started, arguments: "-sf /home/neto/Desktop/Eplus/energyplus /usr/local/bin
+[76592] Done
+[76592] "Execute" as admin: true
+[76592] backup Symlinks operation: Execute
+[76592] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/Energy+.idd, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/Energy+.idd
+[76592] Done
+[76592] perform Symlinks operation: Execute
+[76592] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/Energy+.idd, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/Energy+.idd
+[76593] ln" started, arguments: "-sf /home/neto/Desktop/Eplus/Energy+.idd /usr/local/bin
+[76595] Done
+[76595] "Execute" as admin: true
+[76595] backup Symlinks operation: Execute
+[76595] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/Energy+.schema.epJSON, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/Energy+.schema.epJSON
+[76595] Done
+[76595] perform Symlinks operation: Execute
+[76595] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/Energy+.schema.epJSON, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/Energy+.schema.epJSON
+[76597] ln" started, arguments: "-sf /home/neto/Desktop/Eplus/Energy+.schema.epJSON /usr/local/bin
+[76598] Done
+[76598] "Execute" as admin: true
+[76598] backup Symlinks operation: Execute
+[76598] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/EPMacro, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/EPMacro
+[76598] Done
+[76598] perform Symlinks operation: Execute
+[76598] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/EPMacro, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/EPMacro
+[76600] ln" started, arguments: "-sf /home/neto/Desktop/Eplus/EPMacro /usr/local/bin
+[76601] Done
+[76602] "Execute" as admin: true
+[76602] backup Symlinks operation: Execute
+[76602] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/ExpandObjects, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/ExpandObjects
+[76602] Done
+[76602] perform Symlinks operation: Execute
+[76602] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/ExpandObjects, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/ExpandObjects
+[76603] ln" started, arguments: "-sf /home/neto/Desktop/Eplus/ExpandObjects /usr/local/bin
+[76605] Done
+[76605] "Execute" as admin: true
+[76605] backup Symlinks operation: Execute
+[76605] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/PostProcess/HVAC-Diagram, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/HVAC-Diagram
+[76605] Done
+[76605] perform Symlinks operation: Execute
+[76605] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/PostProcess/HVAC-Diagram, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/HVAC-Diagram
+[76606] ln" started, arguments: "-sf /home/neto/Desktop/Eplus/PostProcess/HVAC-Diagram /usr/local/bin
+[76608] Done
+[76608] "Execute" as admin: true
+[76608] backup Symlinks operation: Execute
+[76608] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/PreProcess/ParametricPreprocessor/ParametricPreprocessor, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/ParametricPreprocessor
+[76608] Done
+[76608] perform Symlinks operation: Execute
+[76608] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/PreProcess/ParametricPreprocessor/ParametricPreprocessor, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/ParametricPreprocessor
+[76609] ln" started, arguments: "-sf /home/neto/Desktop/Eplus/PreProcess/ParametricPreprocessor/ParametricPreprocessor /usr/local/bin
+[76611] Done
+[76611] "Execute" as admin: true
+[76611] backup Symlinks operation: Execute
+[76611] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/PostProcess/ReadVarsESO, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/ReadVarsESO
+[76611] Done
+[76611] perform Symlinks operation: Execute
+[76611] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/PostProcess/ReadVarsESO, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/ReadVarsESO
+[76613] ln" started, arguments: "-sf /home/neto/Desktop/Eplus/PostProcess/ReadVarsESO /usr/local/bin
+[76614] Done
+[76614] "Execute" as admin: true
+[76614] backup Symlinks operation: Execute
+[76614] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/runenergyplus, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/runenergyplus
+[76614] Done
+[76614] perform Symlinks operation: Execute
+[76614] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/runenergyplus, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/runenergyplus
+[76616] ln" started, arguments: "-sf /home/neto/Desktop/Eplus/runenergyplus /usr/local/bin
+[76617] Done
+[76617] "Execute" as admin: true
+[76617] backup Symlinks operation: Execute
+[76618] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/runepmacro, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/runepmacro
+[76618] Done
+[76618] perform Symlinks operation: Execute
+[76618] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/runepmacro, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/runepmacro
+[76619] ln" started, arguments: "-sf /home/neto/Desktop/Eplus/runepmacro /usr/local/bin
+[76620] Done
+[76620] "Execute" as admin: true
+[76621] backup Symlinks operation: Execute
+[76621] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/runreadvars, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/runreadvars
+[76621] Done
+[76621] perform Symlinks operation: Execute
+[76621] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/runreadvars, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/runreadvars
+[76622] ln" started, arguments: "-sf /home/neto/Desktop/Eplus/runreadvars /usr/local/bin
+[76623] Done
+[76623] "Execute" as admin: true
+[76624] backup Symlinks operation: Execute
+[76624] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/PreProcess/GrndTempCalc/Slab, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/Slab
+[76624] Done
+[76624] perform Symlinks operation: Execute
+[76624] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/PreProcess/GrndTempCalc/Slab, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/Slab
+[76625] ln" started, arguments: "-sf /home/neto/Desktop/Eplus/PreProcess/GrndTempCalc/Slab /usr/local/bin
+[76627] Done
+[76627] "Execute" as admin: true
+[76627] backup Symlinks operation: Execute
+[76627] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/PreProcess/GrndTempCalc/SlabGHT.idd, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/SlabGHT.idd
+[76627] Done
+[76627] perform Symlinks operation: Execute
+[76627] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/PreProcess/GrndTempCalc/SlabGHT.idd, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/SlabGHT.idd
+[76628] ln" started, arguments: "-sf /home/neto/Desktop/Eplus/PreProcess/GrndTempCalc/SlabGHT.idd /usr/local/bin
+[76630] Done
+[76630] "Execute" as admin: true
+[76630] backup Symlinks operation: Execute
+[76630] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/energyplus, /usr/local/bin/EnergyPlus, UNDOEXECUTE, rm, /usr/local/bin/EnergyPlus
+[76630] Done
+[76630] perform Symlinks operation: Execute
+[76630] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/energyplus, /usr/local/bin/EnergyPlus, UNDOEXECUTE, rm, /usr/local/bin/EnergyPlus
+[76631] ln" started, arguments: "-sf /home/neto/Desktop/Eplus/energyplus /usr/local/bin/EnergyPlus
+[76633] Done
+[76633] "Execute" as admin: true
+[76633] backup Symlinks operation: Execute
+[76633] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/PostProcess/EP-Compare/EP-Compare, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/EP-Compare
+[76633] Done
+[76633] perform Symlinks operation: Execute
+[76633] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/PostProcess/EP-Compare/EP-Compare, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/EP-Compare
+[76634] ln" started, arguments: "-sf /home/neto/Desktop/Eplus/PostProcess/EP-Compare/EP-Compare /usr/local/bin
+[76636] Done
+[76636] "Execute" as admin: true
+[76636] backup Symlinks operation: Execute
+[76636] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/PreProcess/IDFVersionUpdater/IDFVersionUpdater, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/IDFVersionUpdater
+[76636] Done
+[76636] perform Symlinks operation: Execute
+[76636] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/PreProcess/IDFVersionUpdater/IDFVersionUpdater, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/IDFVersionUpdater
+[76637] ln" started, arguments: "-sf /home/neto/Desktop/Eplus/PreProcess/IDFVersionUpdater/IDFVersionUpdater /usr/local/bin
+[76639] Done
+[76639] "Execute" as admin: true
+[76639] backup Symlinks operation: Execute
+[76639] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/PreProcess/FMUParser/parser, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/parser
+[76639] Done
+[76639] perform Symlinks operation: Execute
+[76639] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/PreProcess/FMUParser/parser, /usr/local/bin, UNDOEXECUTE, rm, /usr/local/bin/parser
+[76640] ln" started, arguments: "-sf /home/neto/Desktop/Eplus/PreProcess/FMUParser/parser /usr/local/bin
+[76642] Done
+[76642] "Execute" as admin: true
+[76642] backup Symlinks operation: Execute
+[76642] 	- arguments: mkdir, -p, /usr/local/share/man/man1
+[76642] Done
+[76642] perform Symlinks operation: Execute
+[76642] 	- arguments: mkdir, -p, /usr/local/share/man/man1
+[76643] mkdir" started, arguments: "-p /usr/local/share/man/man1
+[76821] Done
+[76821] "Execute" as admin: true
+[76822] backup Symlinks operation: Execute
+[76822] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/energyplus.1, /usr/local/share/man/man1/energyplus.1, UNDOEXECUTE, rm, /usr/local/share/man/man1/energyplus.1
+[76822] Done
+[76822] perform Symlinks operation: Execute
+[76822] 	- arguments: ln, -sf, /home/neto/Desktop/Eplus/energyplus.1, /usr/local/share/man/man1/energyplus.1, UNDOEXECUTE, rm, /usr/local/share/man/man1/energyplus.1
+[76824] ln" started, arguments: "-sf /home/neto/Desktop/Eplus/energyplus.1 /usr/local/share/man/man1/energyplus.1
+[76895] Done
+[77213] Installing component Licenses
+[77218] backup Licenses operation: License
+[77218] 	- arguments:
+[77218] Done
+[77218] perform Licenses operation: License
+[77218] 	- arguments:
+[77219] Done
+[77311] Writing maintenance tool: "/home/neto/Desktop/Eplus/maintenancetool.new"
+[77312] Writing maintenance tool.
+[77870] Wrote permissions for maintenance tool.
+[78639] Maintenance tool hard restart: false.
+[78642] Installation finished!
