@@ -1,8 +1,8 @@
 from train import train
 import os
 
-algs = ['PPO', 'PPO']
-env = 'LunarLanderContinuous-v2'
+algs = ['TD3', 'PPO']
+env = 'Eplus-5zone-hot-continuous-stochastic-v1'
 
 i = 9
 for alg in algs:
