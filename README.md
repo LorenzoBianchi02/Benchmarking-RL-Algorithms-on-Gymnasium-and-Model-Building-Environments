@@ -16,6 +16,7 @@ Otherwise:
 5. ``$ pip install -e .[extras]``
 
 6. Create the following 2 environment variables:
-``PYTHONPATH="/usr/local/EnergyPlus-23-1-0" \n EPLUS_PATH="/usr/local/EnergyPlus-23-1-0"``
+``PYTHONPATH="/usr/local/EnergyPlus-23-1-0"`` and ``EPLUS_PATH="/usr/local/EnergyPlus-23-1-0"``
+(to create a temporary  environment variable: ``$ export PYTHONPATH="/usr/local/EnergyPlus-23-1-0"``
 
-7. ``$ pip install -e .``
+8. ``$ pip install -e .``
