@@ -1,6 +1,6 @@
 # INSTALLATION
 
-If you want to follow the official documentation: https://alejandrocn7.github.io/sinergym/compilation/html/pages/installation.html
+If you want to follow the official documentation: https://alejandrocn7.github.io/sinergym/compilation/html/pages/installation.html \n
 Note the documentation is not up to date and the some steps have to modified: https://github.com/ugr-sail/sinergym/issues/398
 
 Otherwise:
